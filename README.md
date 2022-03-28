@@ -34,6 +34,7 @@ The standard connection of D-/D+ to the physical pins of the AVR is shown in the
 |ATtiny45/85|PB3|PB4|16.5 MHz internal|
 |ATtiny44/84|PA1|PA0|12 MHz external|
 |ATmega8/168p/328p|PD7|PD2|12 MHz external|
+|ATmega8/168p/328p|PD1|PD2|16 MHz external|
 
 # Software Setup
 - Open Arduino IDE
