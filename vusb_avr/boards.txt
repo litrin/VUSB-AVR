@@ -66,6 +66,21 @@ vusb.menu.cpu.attiny84.bootloader.extended_fuses=0xff
 vusb.menu.cpu.attiny84.bootloader.unlock_bits=0xff
 vusb.menu.cpu.attiny84.bootloader.lock_bits=0xff
 
+# ATtiny88
+# --------
+vusb.menu.cpu.attiny88=ATtiny88 (16 MHz external)
+vusb.menu.cpu.attiny88.build.mcu=attiny88
+vusb.menu.cpu.attiny88.build.variant=tinyx8
+vusb.menu.cpu.attiny88.build.board=attiny
+vusb.menu.cpu.attiny88.build.f_cpu=16000000L
+vusb.menu.cpu.attiny88.upload.maximum_size=8192
+vusb.menu.cpu.attiny88.upload.maximum_data_size=512
+vusb.menu.cpu.attiny88.bootloader.low_fuses=0xe1
+vusb.menu.cpu.attiny88.bootloader.high_fuses=0x5d
+vusb.menu.cpu.attiny88.bootloader.extended_fuses=0xff
+vusb.menu.cpu.attiny88.bootloader.unlock_bits=0xff
+vusb.menu.cpu.attiny88.bootloader.lock_bits=0xff
+
 # ATmega8
 # -------
 vusb.menu.cpu.atmega8=ATmega8 (12 MHz external)
