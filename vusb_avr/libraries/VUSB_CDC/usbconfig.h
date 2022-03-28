@@ -62,6 +62,12 @@ section at the end of this file).
 #define USB_CFG_IOPORTNAME      B
 #define USB_CFG_DMINUS_BIT      5
 #define USB_CFG_DPLUS_BIT       6
+
+#elif defined(__AVR_ATtinyX8__) 
+#define USB_CFG_IOPORTNAME      D
+#define USB_CFG_DMINUS_BIT      1
+#define USB_CFG_DPLUS_BIT       2
+
 #else
 /*	ATtiny2313, ATmega8/48/88/168	*/
 #define USB_CFG_IOPORTNAME      D
