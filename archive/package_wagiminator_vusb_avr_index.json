@@ -60,6 +60,34 @@
         }
       ],
       "tools": []
+    },
+    {
+      "name": "VUSB-AVR",
+      "architecture": "avr",
+      "version": "1.0.2",
+      "category": "avr",
+      "help": {
+        "online": ""
+      },
+      "url": "https://raw.githubusercontent.com/litrin/VUSB-AVR/main/archive/vusb_avr_v1_0_1.zip",
+      "archiveFileName": "vusb_avr_v1_0_1.zip",
+      "checksum": "SHA-256:1d44731b5e8d3eb0af9395cca7a62afde91f4b71c9201975cb615e3da5b46f2a",
+      "size": "624614",
+      "boards": [
+        {"name": "ATtiny45"},
+        {"name": "ATtiny85"},
+        {"name": "ATtiny44"},
+        {"name": "ATtiny84"},
+        {"name": "ATmega8"},
+        {"name": "ATmega168p"},
+        {"name": "ATmega328p"}
+      ],
+      "toolsDependencies": [
+       
+      ]
     }
+  ],
+  "tools": []
+}
   ]
 }
