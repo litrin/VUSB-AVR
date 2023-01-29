@@ -3,7 +3,7 @@
     {
       "name": "VUSB-AVR",
       "maintainer": "Stefan Wagner",
-      "websiteURL": "https://github.com/wagiminator/VUSB-AVR",
+      "websiteURL": "https://github.com/litrin/VUSB-AVR",
       "email": "",
       "help": {
         "online": ""
@@ -17,7 +17,7 @@
           "help": {
             "online": ""
           },
-          "url": "https://raw.githubusercontent.com/wagiminator/VUSB-AVR/main/archive/vusb_avr_v1_0_0.zip",
+          "url": "https://raw.githubusercontent.com/litrin/VUSB-AVR/main/archive/vusb_avr_v1_0_0.zip",
           "archiveFileName": "vusb_avr_v1_0_0.zip",
           "checksum": "SHA-256:d85a197c0d5bac9d3d9773ba9c9f7442ce259f9a60547f5f3e5725a67fc578c6",
           "size": "624607",
@@ -51,7 +51,7 @@
           "help": {
             "online": ""
           },
-          "url": "https://raw.githubusercontent.com/wagiminator/VUSB-AVR/main/archive/vusb_avr_v1_0_1.zip",
+          "url": "https://raw.githubusercontent.com/litrin/VUSB-AVR/main/archive/vusb_avr_v1_0_1.zip",
           "archiveFileName": "vusb_avr_v1_0_1.zip",
           "checksum": "SHA-256:1d44731b5e8d3eb0af9395cca7a62afde91f4b71c9201975cb615e3da5b46f2a",
           "size": "624614",
